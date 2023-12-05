@@ -22,7 +22,7 @@ I'm Yuan, a game developer at [Lilith Games](https://www.lilith.com/), previousl
 ### Tech facts
 
 - I write C# and Lua daily, sometimes C++
-- Used to write Python
+- I Used to write some Python
 - Currently learning Graphics
 - Life is short
 
