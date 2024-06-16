@@ -15,15 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Yuan, a game developer at [Lilith Games](https://www.lilith.com/), previously as a fresh graduate at Giant Network.
+I'm Yuan, a game developer, work at [Garena](https://www.garena.sg/) for a living, previously as a fresh graduate at
+[Lilith Games](https://www.lilith.com/). I also work on my own projects in my spare time (I wanna post the website here, but not ready).
 
 [![steam](https://img.shields.io/badge/steam-blue?logo=steam&color=174369&logoColor=white)](https://steamcommunity.com/id/23mad) [![ps](https://img.shields.io/badge/playstation-blue?logo=playstation&color=043d88&logoColor=white)](https://my.playstation.com/profile/Shiheuan) [![xbox](https://img.shields.io/badge/xbox-blue?logo=xbox&color=0f7c0f&logoColor=white)](https://account.xbox.com/en-us/profile?gamertag=SssssssssssighH) [![tweet](https://img.shields.io/badge/tweet-blue?logo=twitter&color=1da1f2&logoColor=white)](https://twitter.com/shih_euan)
 
 ### Tech facts
 
-- I write C# and Lua daily, sometimes C++
-- I Used to write some Python
-- Currently learning Graphics
+- I write C#, Golang and Lua daily, sometimes C++ or Python
+- Eager to share knowledge
+- Currently working on Combat/3C/Network Synchronization
+- learned about Graphics and Reinforcement Learning (*What is it for?...Interest.*)
 - Life is short
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiheuan&layout=compact)
