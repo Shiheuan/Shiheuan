@@ -32,4 +32,4 @@ I'm Yuan, a game developer, work at [Garena](https://www.garena.sg/) for a livin
 
 ### Skills
 
-![My Skills]([https://skillicons.dev/icons?i=cs,c,cpp,lua,go,py&perline=20](https://skillicons.dev/icons?i=cs,c,cpp,lua,go,py,unity,godot,git,md,raspberrypi,visualstudio,vscode,rider,&perline=20))
+![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,lua,go,py,unity,godot,git,md,raspberrypi,visualstudio,vscode,rider,&perline=20)
