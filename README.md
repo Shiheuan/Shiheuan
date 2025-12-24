@@ -28,7 +28,8 @@ I'm Yuan, a game developer, work at [Garena](https://www.garena.sg/) for a livin
 - learned about Graphics and Reinforcement Learning (*What is it for?...Interest.*)
 - Life is short
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiheuan&layout=compact)
+<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiheuan&layout=compact)
+-->
 
 ### Skills
 
